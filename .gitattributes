@@ -1,1 +1,1 @@
-INTnc-NC-1_S1_L001_R1_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
+M2_Root_ITS_S74_L001_R1_001.fastq.g filter=lfs diff=lfs merge=lfs -text
